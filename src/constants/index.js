@@ -135,7 +135,7 @@ export const myProjects = [
   },
 ];
 export const mySocials = [
-  { name: "WhatsApp", href: "", icon: "/assets/socials/whatsApp.svg" },
+  { name: "WhatsApp", href: "+91-8487996294", icon: "/assets/socials/whatsApp.svg" },
   { name: "LinkedIn", href: "https://www.linkedin.com/in/darsh-rajput", icon: "/assets/socials/linkedIn.svg" },
   { name: "Github", href: "https://github.com/darshraj87", icon: "/assets/socials/github.svg" },
   { name: "Instagram", href: "", icon: "/assets/socials/instagram.svg" },
