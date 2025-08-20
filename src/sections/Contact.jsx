@@ -1,4 +1,4 @@
-import { useState } from "react";
+ import { useState } from "react";
 import emailjs from "@emailjs/browser";
 import Alert from "../components/Alert";
 import { Particles } from "../components/Particles";
@@ -51,7 +51,7 @@ const Contact = () => {
     }
   };
   return (
-    <section className="relative flex items-center c-space section-spacing">
+    <section className="relative flex items-center c-space section-spacing" id="contact">
       <Particles
         className="absolute inset-0 -z-50"
         quantity={100}
